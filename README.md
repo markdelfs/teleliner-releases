@@ -13,7 +13,9 @@ Requires macOS 14 or later. Universal build for Apple silicon and Intel Macs. Op
 - Integrated live video viewer and compact channel table.
 - Worldwide iptv-org catalogue, search, and country/category/language filters.
 - Favorites, channel folders, and watch history.
-- M3U playlist import from a file or URL.
+- M3U playlist import from a file or URL, with category filtering and clear pagination.
+- Broadcast channel identifiers and playback controls that hide after inactivity.
+- Experimental Google Cast via a Chrome controller; receiver playback depends on your device and stream.
 - macOS full screen, Picture in Picture when available, AirPlay, and floating TV window.
 - Sparkle update checks and automatic update preferences.
 
